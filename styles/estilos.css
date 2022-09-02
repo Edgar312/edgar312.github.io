@@ -1,0 +1,78 @@
+*{
+    margin-top: 5px;
+
+}
+
+.tittle{
+    width: 600px;
+    padding: 80px;
+    display: inline-block;
+            }
+
+            .tittle h1{
+                font-size: 40px;
+            }
+
+            .tittle h2{
+    font-size: 29px;
+            }
+
+.imagenBox{
+    width: 27%S;
+    display: inline-block;
+    background-color: rgb(102, 43, 43);
+    border-bottom-right-radius: 300px;
+    border-top-right-radius: 300px;
+    }
+
+.imagenBox img{
+        width: 180px;
+        height: 180px;
+        margin-left: 165px;
+        border-radius: 50%
+    }
+        
+    .LOLA{
+margin-top: 5px;
+
+    } 
+        
+        .Box1{
+margin: 5px;
+padding: 20px;
+width: 30%;
+height: 150px;
+color: rgb(2, 2, 2);
+background-color:white;
+display: inline-block;
+}
+
+
+        .Box2{
+            margin: 5px;
+            padding: 20px;
+            width: 30%;
+            height: 15opx;
+            color: rgb(2, 2, 2);
+            background-color: white;
+            display: inline-block;
+
+        }
+        
+        .Box3 li{
+    color: rgb(169, 92, 92);
+        }
+        .Box4 li{
+    color:rgb(169, 92, 92) ;
+    ;
+        }
+        .Box5{
+margin: 5px;
+padding: 20px;
+width: 30%;
+height: 150px;
+color: rgb(2, 2, 2);
+background-color:white;
+
+        }
+
